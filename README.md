@@ -3,10 +3,10 @@
 Build an application that satisfies the following user stories using the [API Documentation](https://fakerestapi.azurewebsites.net/index.html) in conjunction with [Axios](https://www.npmjs.com/package/axios)
 
 1. As a user, I should be able to list all books viewing only 20 books at a time.
-2. As a user, I should be able to view the title, description and the publish date in relative time (i.e. 1 month ago)
+2. As a user, I should be able to view the title, description and the publish date in relative time (i.e. 1 month ago) of a book.
 3. As a user, I should be able to add a new book by providing the title and description, so that it shows up in the book list.
 4. As a user, I should be able to click on a book in the book list and view the title and description of the selected book in a separate book details page.
-5. As a user, I should be able to update the title and/or the description from the book details page.
+5. As a user, I should be able to update the title and/or the description of a book from the book details page.
 6. As a user, I should be able to delete a book from its details page.
 7. As a user, when I navigate to any other page, I should see a standard 404 error page.
 
